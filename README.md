@@ -89,8 +89,8 @@ neurodyads-gsoc-vishal/
 **Name:** Vishal Shankar  
 **Program:** B.Tech Computer Science and Engineering (AI & ML)  
 **Institution:** Hindustan Institute of Technology and Science, Chennai  
-**Email:** yourgmail@gmail.com  
-**GitHub:** https://github.com/yourusername  
+**Email:** vishalshankar032@gmail.com  
+**GitHub:** https://github.com/voodoovampire  
 
 I am a second‑year CSE (AI & ML) student interested in machine learning, EEG analysis, and research‑driven open‑source projects. This repository is part of my GSoC 2026 application for the **NeuroDyads Brain‑to‑Brain Decoder** project under ML4SCI.
 
